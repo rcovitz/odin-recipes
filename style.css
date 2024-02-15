@@ -4,3 +4,17 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
+.title {
+    border: 2px solid blueviolet;
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.button {
+    margin: 4px auto;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    background-color: darkorange;
+}
